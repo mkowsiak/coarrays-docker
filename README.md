@@ -42,6 +42,12 @@ Hello world from            1 of           2
 Hello world from            2 of           2
 ```
 
+# Sample execution of coarrays
+
+<p align="center">
+  <img src="https://github.com/mkowsiak/coarrays-docker/blob/master/images/coarrays.gif?raw=true">
+</p>
+
 # Known limitations
 
 Note that this container should be used only for research purposes. If you want to use OpenCoarrays on your macOS, you should definitelly think about building native installation of GCC, MPICH/OpenMPI, and OpenCoarrays. You can find steps here: [Building OpenCoarrays on macOS – everything from the sources](http://www.owsiak.org/building-opencoarrays-on-macos-everything-from-the-sources)
