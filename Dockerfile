@@ -12,6 +12,7 @@ RUN apt-get install -y gfortran
 RUN apt-get install -y open-coarrays-bin
 RUN apt-get install -y make
 RUN apt-get install -y tree
+RUN apt-get install -y gdb
 
 RUN mkdir -p /opt
 ADD run.sh /opt/run.sh
